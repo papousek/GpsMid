@@ -3,8 +3,8 @@
 # build Osm2GpsMid & GpsMid midlets for signing
 #
 
-numver=0.7.6
-ver=$numver-map67
+numver=0.7.7
+ver=$numver-map69
 map=Berlin
 
 ant clean
